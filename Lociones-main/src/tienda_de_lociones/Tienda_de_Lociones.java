@@ -14,7 +14,7 @@ public class Tienda_de_Lociones {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Holaaaa");
+        System.out.println("Holaaasa");
     }
     
 }
